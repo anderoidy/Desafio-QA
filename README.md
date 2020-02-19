@@ -1,6 +1,6 @@
 # testeAutomacao
 Teste
 Instalar a extenção Postman no google Chrome
-Cenário de Teste API Rest
+Cenário de Teste API 
 
 
