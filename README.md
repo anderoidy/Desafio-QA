@@ -1,6 +1,5 @@
-# Desafio QA
-Teste
-Instalar a extenção Postman no google Chrome
-Cenário de Teste API 
+# Como instalar o ambiente e executar os testes
+
+
 
 
