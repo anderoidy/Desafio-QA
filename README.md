@@ -12,7 +12,18 @@
   Agora em Add Library/ JRE System Library/ Clica em Next, já vai estar marcado a Defaut que no meu caso está com a (Java SE 8[1.8.0_121]) ´.    
 
 4- Vamos Instalar a Dependência do Cucumber. 
-  Entre na Página mvnrepository.com, em Searsh procure por Cucumber JVM Java 1.2.5, copie o código da dependência para o arquivo pom.xml.    
+  Entre na Página mvnrepository.com, em Searsh procure por Cucumber JVM Java 1.2.5, copie o código da dependência para o arquivo pom.xml.  
+  
+  dependencia para o pom.xml  
+
+	<dependencies>
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-java</artifactId>
+			<version>4.2.6</version>
+		</dependency>
+	</dependencies>
+
 
     Agora Mostrarei como criar nossos cenários e executar os testes 
   
