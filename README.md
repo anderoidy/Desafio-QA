@@ -25,7 +25,7 @@
 	</dependencies>
 
 
-    Agora Mostrarei como criar nossos cenários e executar os testes 
+    
   
 
 
