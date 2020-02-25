@@ -1,4 +1,4 @@
-# Como instalar o ambiente e executar os testes
+# Como instalar o ambiente para executar os testes utilizando Cucumber e jUnit
  
 
 1- Instale o Eclipse e o JDK 
